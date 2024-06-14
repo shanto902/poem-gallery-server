@@ -6,9 +6,10 @@
   "description": "Its an api for poem gallery website",
   "license": "ISC",
   "scripts": {
-    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
     "dev": "nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "[my-framework] build --output public"
   },
   "dependencies": {
     "cors": "^2.8.5",
