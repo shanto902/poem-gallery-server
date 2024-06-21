@@ -133,7 +133,7 @@
   <section>
     <h2>Getting Started</h2>
     <ol>
-      <li>Clone the repository: <code>git clone https://github.com/your-repo.git</code></li>
+      <li>Clone the repository: <code>git clone https://github.com/shanto902/poem-gallery-server.git</code></li>
       <li>Install dependencies: <code>npm install</code></li>
       <li>Set up MongoDB and configure connection details in <code>config/db.js</code>.</li>
       <li>Start the server: <code>npm start</code></li>
